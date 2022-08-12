@@ -82,3 +82,11 @@ header {
   border-radius: 1.25rem;
   color: white;
 }
+
+/* Real feel - hide */
+
+@media (max-width: 576px) {
+  .weather-box .rf {
+    display: none;
+  }
+}
