@@ -1,1 +1,1 @@
-# Netlify : https://it-school-weather-app.netlify.app
+# Netlify : https://it-school-weather-app-javascript.netlify.app/
